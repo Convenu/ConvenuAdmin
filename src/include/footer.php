@@ -1,0 +1,1 @@
+<p>Copyright &copy; 2013 Startup Generation <a href="http://www.widgetechllc.com"><font color="#009900">Widgetech LLC</font></a></p>
